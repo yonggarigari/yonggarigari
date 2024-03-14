@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/stm32cubeMX-6DB33F?style=for-the-badge&logo=stmicroelectronics&logoColor=00599C" />&nbsp
   <img src="https://img.shields.io/badge/arm%20keil-D14836?style=for-the-badge&logo=armkeil&logoColor=394049" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/visiualstudio-1572B6?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />&nbsp
+  <img src="https://img.shields.io/badge/vs-1572B6?style=for-the-badge&logo=visualstudio&logoColor=5C2D91" />&nbsp
 </div>
 
 <div align="center">
